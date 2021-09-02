@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuperFastJson", "SuperFastJson.csproj", "{2B6E5CF8-88DD-4A3E-A596-9A70A3CB6656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFJson", "..\SFJson\SFJson.csproj", "{34224021-30AD-4644-835F-900BD720D525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B6E5CF8-88DD-4A3E-A596-9A70A3CB6656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6E5CF8-88DD-4A3E-A596-9A70A3CB6656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6E5CF8-88DD-4A3E-A596-9A70A3CB6656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6E5CF8-88DD-4A3E-A596-9A70A3CB6656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34224021-30AD-4644-835F-900BD720D525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34224021-30AD-4644-835F-900BD720D525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34224021-30AD-4644-835F-900BD720D525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34224021-30AD-4644-835F-900BD720D525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE4EA42-2437-46C8-9E8A-9AD04D52477F}
+	EndGlobalSection
+EndGlobal
