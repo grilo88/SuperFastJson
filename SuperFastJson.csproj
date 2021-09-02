@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SFJson\SFJson.csproj" />
+    <ProjectReference Include="SFJson\SFJson.csproj" />
   </ItemGroup>
 
 </Project>
